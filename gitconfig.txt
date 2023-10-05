@@ -1,5 +1,17 @@
+
+1. creating the github account
+2. setup the credentials
+3. create the workspace
+4. initialize the git
+5. create files
+
 git password less authentication
 https://www.cyberithub.com/how-to-setup-passwordless-authentication-for-git-push-in-github/
 
 git demo learning
 https://www.simplilearn.com/tutorials/git-tutorial/git-tutorial-for-beginner
+
+git editor tools
+https://pandao.github.io/editor.md/en.html
+npm install editor.md
+
